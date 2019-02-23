@@ -1,0 +1,3 @@
+//The print statement allows the user to type any string in the parenthesis to display a message.
+
+print('Hello World')
